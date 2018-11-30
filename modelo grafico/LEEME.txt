@@ -1,0 +1,3 @@
+el diseño de los modelos pueden ir cambiando durante el desarrollo, 
+del prototipo mostrado, ya que solo muestra una idea basica 
+de como puede ser el diseño final.
